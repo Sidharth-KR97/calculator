@@ -7,4 +7,6 @@ scanf("%d",&a);
 scanf("%d",&b);
 int sum = a + b;
 printf("\n Sum = %d",&sum);
+int dif = a - b;
+ printf("sid edit \n dif = %d",&dif);
 }
